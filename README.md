@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sophia-njoku
 - 👀 I’m interested in designin apps
-- 🌱 I’m currently learning java in computer science
+- 🌱 I’m currently learning data structures in computer science
 - 💞️ I’m looking to collaborate on linkedln
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
