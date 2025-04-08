@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sophia-njoku
-- 👀 I’m interested in designin apps
+- 👀 I’m interested in research designing apps
 - 🌱 I’m currently learning data structures in computer science
 - 💞️ I’m looking to collaborate on linkedln
 - 📫 How to reach me ...
